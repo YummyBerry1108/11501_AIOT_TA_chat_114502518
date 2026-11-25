@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Chat" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">#6200EE</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+</resources>
